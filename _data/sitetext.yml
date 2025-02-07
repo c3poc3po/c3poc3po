@@ -102,8 +102,8 @@ Netzwerk: Wir glauben an das Netzwerk und arbeiten vom ersten Tag unserer Gründ
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Michael Häußler"
+        role: "Geschäftsführer und Berater"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -112,7 +112,7 @@ Netzwerk: Wir glauben an das Netzwerk und arbeiten vom ersten Tag unserer Gründ
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
+      - name: "Benjamin Wiedenmann"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
         social:
