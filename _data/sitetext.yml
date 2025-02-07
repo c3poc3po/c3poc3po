@@ -59,6 +59,11 @@ en: &DEFAULT_EN
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
         alt: image alt text
+      - title: "iknos founded"
+        year: "2024"
+        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
       - title: "Title"
         year: "2009-2011"
         desc: "Your description here, **Markdown** is fully supported."
@@ -95,6 +100,12 @@ Netzwerk: Wir glauben an das Netzwerk und arbeiten vom ersten Tag unserer Gründ
       - title: "Creative Market"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "OUR AMAZING TEAM"
@@ -110,7 +121,7 @@ Netzwerk: Wir glauben an das Netzwerk und arbeiten vom ersten Tag unserer Gründ
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/michael-h%C3%A4u%C3%9Fler-7b22b1b8/details/experience/
             icon: fab fa-linkedin-in
       - name: "Benjamin Wiedenmann"
         role: "Lead Marketer"
@@ -120,7 +131,7 @@ Netzwerk: Wir glauben an das Netzwerk und arbeiten vom ersten Tag unserer Gründ
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/benjamin-wiedenmann-545b783/details/experience/
             icon: fab fa-linkedin-in
       - name: "Diana Perterson"
         role: "Lead Developer"
